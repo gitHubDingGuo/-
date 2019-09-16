@@ -1,0 +1,22 @@
+.dynamic_right_t {
+    font-weight: normal;
+    font-size: 14px;
+    color: red;
+	width: 730px;
+	min-width: 730px;
+	height: 300px;
+	text-decoration: none;
+	
+}
+.dynamic_right_a {
+    font-weight: normal;
+    font-size: 14px;
+    color: red;
+	text-decoration: none;
+	
+}
+.dynamic_right_a a:hover{
+color: #f6aa00;
+text-decoration: none;
+}
+}

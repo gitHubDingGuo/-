@@ -1,0 +1,182 @@
+.body {
+	color: #2d2d2d;
+	font-size: 12px;
+	line-height: 20px;
+	font-family: "microsoft yahei";
+}
+
+
+.logo {
+	min-width: 1400px;
+	height: 66px;
+	background-color: #fff;
+	;
+	display: inline-block;
+}
+
+.logo-in {
+	position: relative;
+	clear: both;
+	min-width: 1200px;
+	width: 1200px;
+	margin: 0 auto;
+	height: 36px;
+	background-color: #fff;
+	;
+	padding: 15px 0;
+	line-height: 36px;
+	display: inline-block;
+	margin-left: 80px;
+}
+
+.logo-in a {
+	color: #2d2d2d;
+	text-decoration: none !important;
+	margin-left: 15px;
+}
+
+.logo-in span {
+	font-size: 18px;
+	color: #000;
+	line-height: 36px;
+}
+
+.logo-in img {
+	width: 145px;
+	height: 38px;
+	margin-top: 0px;
+	float: left;
+}
+
+.big {
+	position: relative;
+}
+
+.big-bg {
+	height: 100%;
+	position: fixed;
+	min-width: 1200px;
+	width: 100%;
+	background: url("http://meishixing.com/Public/index/images/login/sign-bg.jpg") no-repeat;
+}
+
+.big-contain {
+	min-width: 1200px;
+	width: 1200px;
+	margin: 0 auto;
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0
+}
+
+
+
+
+.big-login {
+	float: right;
+	width: 1200px;
+	min-width: 1200px;
+	height: 500px;
+	background-color: #fff;
+	box-shadow: 0 0 30px rgba(0, 0, 0, .1);
+	margin-top: 15px;
+	display: inline-block;
+}
+
+
+
+.big-login p{
+		line-height: 84px;
+font-size: 18px;
+border-bottom: 1px solid #dcdcdc;
+}
+
+
+	.email{
+		width: 286px;
+		height: 38px;
+		text-align: center;
+		margin-top: 80px;
+
+		margin-bottom: 25px;
+		border: 1px solid #dcdcdc;
+		margin-left: 350px;
+}
+
+
+	.submit{
+		width: 286px;
+		height: 48px;
+		background-color: #f6a200;
+		line-height: 42px;
+		border-radius: 3px;
+cursor: pointer;color: #fff;text-align: center;
+font-size: 16px;border: none;margin-left: 360px;
+}
+
+
+	.submit:hover{
+		background-color: green;
+		transition: all 2s;
+}
+
+
+
+
+.form-login {
+    width: 284px;
+    height: 40px;
+    line-height: 40px;
+    border-radius: 3px;
+    text-align: center;
+    color: #fff;
+    font-size: 16px;
+    background-color: #f6a200;
+    border: none;
+    cursor: pointer;
+    display: inline-block;
+    margin: 20px 0 0 20px;
+	margin-right: 10px;
+    outline: none;
+	float: right;
+}
+
+.last{
+		text-align: center;
+clear: both;
+width: 1000px;
+margin: 100px 100px;
+display: inline-block;
+position: relative;
+bottom: 0px;
+border-top: 1px solid #dcdcdc;
+padding-top: 0px;
+
+}
+
+
+	.block{
+		width: 40px;
+		height: 60px;
+}
+
+.forget-mi{
+text-align: center;
+margin-top: 10px  ;
+margin-left:-120px;
+
+color: rgb(135,135,135);
+font-size: 14px;
+display: inline-block;
+	
+text-decoration: none !important;
+}
+
+	.three{
+		width: 280px;
+		height: 130px;
+		background-color: #333333;
+		display: inline-block;
+		margin-left: 90px;
+}

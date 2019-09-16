@@ -1,0 +1,15 @@
+
+	.header1{
+}
+
+.loginWraper1{
+	position: absolute;
+    width: 100%;
+	height: 100%;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    z-index: 1;
+    background:#e4e8eb url(img1/admin-login-bg.jpg) no-repeat center;
+}

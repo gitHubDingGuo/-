@@ -1,0 +1,227 @@
+.body {
+	color: #2d2d2d;
+	font-size: 12px;
+	line-height: 20px;
+	font-family: "microsoft yahei";
+}
+
+.dian{
+		list-style-type:none
+}
+.logo {
+	min-width: 1400px;
+	height: 66px;
+	background-color: #fff;
+	;
+	display: inline-block;
+}
+
+.logo-in {
+	position: relative;
+	clear: both;
+	min-width: 1200px;
+	width: 1200px;
+	margin: 0 auto;
+	height: 36px;
+	background-color: #fff;
+	;
+	padding: 15px 0;
+	line-height: 36px;
+	display: inline-block;
+	margin-left: 80px;
+}
+
+.logo-in a {
+	color: #2d2d2d;
+	text-decoration: none !important;
+	margin-left: 15px;
+}
+
+.logo-in span {
+	font-size: 18px;
+	color: #000;
+	line-height: 36px;
+}
+
+.logo-in img {
+	width: 145px;
+	height: 38px;
+	margin-top: 0px;
+	float: left;
+}
+
+.big {
+	position: relative;
+}
+
+.big-bg {
+	
+	min-width: 1900px;
+	min-height: 1900px;
+	position: relative;
+	
+	background: url("http://meishixing.com/Public/index/images/login/sign-bg.jpg") no-repeat;
+}
+
+.big-contain {
+	min-width: 1200px;
+	width: 1200px;
+	margin: 0 auto;
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0
+}
+
+.search {
+	margin-top: 15px;
+	margin-right: 0px;
+	float: right
+}
+
+.search a {
+	color: #f6a200;
+	font-size: 14px;
+	text-decoration: none !important;
+}
+
+
+.big-login {
+	
+	width: 1200px;
+	min-width: 1200px;
+	height: 500px;
+    margin-left: 100px;
+	background-color: #fff;
+	box-shadow: 0 0 30px rgba(0, 0, 0, .1);
+	height: auto;
+	margin-top: 15px;
+	display: inline-block;
+}
+
+
+.big-login-picture {
+	margin: 170px 50px;
+	display: inline-block;
+	background-color: #fff;
+	width: 556px;
+	height: 260px;
+	
+}
+
+.big-login-right {
+	text-align: center;
+	display: inline-block;
+	background-color: background-color: #fff;
+	width: 394px;
+	height: 470.5px;
+	
+	margin-top: 50px;
+	
+}
+
+.big-login-right h2 {
+	font-weight: 900;
+	color: #2d2d2d;
+	font-size: 24px;
+	text-align: center;
+}
+
+.big-login-head {
+	width: 284px;
+	margin: 25px 20px 30px 100px;
+}
+
+.box {
+
+	text-align: center;
+	color: #919191;
+}
+
+
+.box input {
+	width: 260px;
+	line-height: 38px;
+	border: 1px solid #dcdcdc;
+	padding-left: 15px;
+}
+
+.box img {
+
+	margin-left: 260px;
+	width: 100px;
+}
+
+
+/* .js-box {
+	position: relative;
+	width: 14px;
+	height: 14px;
+	border: 1px solid #dcdcdc;
+	-webkit-border-radius: 3px
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	display: inline-block;
+	vertical-align: middle;
+	top: 18px;
+	padding: 0;
+	margin-right: 10px;
+	
+
+}
+
+.js-checkbox.active {
+	background: #fda61a url("http://meishixing.com/Public/index/images/gou.png") 0 0 no-repeat;
+} */
+
+.box-1{
+		
+		color: rgb(135,135,135);
+font-size: 14px;
+
+}
+.form-login {
+    
+    line-height: 40px;
+    border-radius: 3px;
+    text-align: center;
+    color: #fff;
+    font-size: 16px;
+    background-color: #f6a200;
+    border: none;
+    cursor: pointer;
+    outline: none;
+	
+}
+
+
+	.form-login:hover{
+		background-color: green;
+		transition: all 2s;
+}
+
+	.last{
+		text-align: center;
+clear: both;
+width: 1000px;
+margin: 100px 100px;
+display: inline-block;
+position: relative;
+bottom: 0px;
+border-top: 1px solid #dcdcdc;
+padding-top: 0px;
+
+}
+
+
+#zi{
+		font-size: 18px;
+color: #000;
+line-height: 36px;
+margin-top: 10px;
+}
+
+
+	#width{
+		width: 80px;
+}
